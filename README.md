@@ -1,5 +1,3 @@
-# Statistics-for-ML
-
 <figure>
     <img src="https://hackr.io/blog/statistics-for-data-science/thumbnail/large" alt="SAE" title="" />
 </figure>
