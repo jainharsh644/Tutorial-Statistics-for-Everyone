@@ -7,4 +7,14 @@
 
 # List of Concepts:
 
+### 1. Descriptive Statistics
+### 2. Sample, Population Statistics
+### 3. Random Variables
+### 4. PDF, Binomial Distribution, Normal Distribution
+### 5. Z-SCORE
+### 6. Central Limit Theorem
 
+___
+
+### My Kaggle Notebook Link:  [Part -1 ](https://www.kaggle.com/harshjain123/feature-engineering-from-scratch)
+### My Kaggle Notebook Link:  [Part - 2](https://www.kaggle.com/harshjain123/feature-engineering-from-scratch)
