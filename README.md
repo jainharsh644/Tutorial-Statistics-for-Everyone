@@ -18,6 +18,6 @@
 ___
 
 ## Kaggle Notebook Link:  
-[Statistics Part-1](https://www.kaggle.com/harshjain123/statistics-for-data-science-part-1) [Part - 2](https://www.kaggle.com/harshjain123/statistics-for-data-science-Statistics Part-2)
+[Statistics Part-1](https://www.kaggle.com/harshjain123/statistics-for-data-science-part-1) [Statistics Part-2](https://www.kaggle.com/harshjain123/statistics-for-data-science-part-2)
 
 # Please do ⭐ the repository, if it helped you in anyway.
